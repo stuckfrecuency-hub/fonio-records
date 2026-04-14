@@ -19,7 +19,11 @@ function App() {
         <div>
           <h1>Fonio Records</h1>
           <p>
-            Sello discográfico independiente.
+            Sello discográfico underground
+          </p>
+          <p>For demos:foniorecords@gmail.com
+            
+              Book an artist: foniorecords@gmail.com
           </p>
         </div>
         <button
